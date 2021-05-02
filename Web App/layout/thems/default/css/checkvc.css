@@ -1,0 +1,9 @@
+/* start checkvc page */
+.btn-checkvc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2rem;
+}
+/* end checkvc page */

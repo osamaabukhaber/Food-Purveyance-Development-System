@@ -1,0 +1,20 @@
+th {
+    text-align: center;
+  }
+  
+  .glyphicon {
+    margin-right: 10px;
+  }
+  
+  .crud-table {
+    max-width: 800px;
+    padding: 40px 0;
+  }
+  
+  .form-alert {
+    margin-top: 10px;
+  }
+  
+  .form-inline {
+    margin-bottom: 20px;
+  }
